@@ -1,0 +1,18 @@
+.red-title {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.title-font-variant {
+  font-size: 24px;
+}
+
+#title-2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#title-4 {
+  background-color: lightgreen;
+  font-weight: bold;
+}
